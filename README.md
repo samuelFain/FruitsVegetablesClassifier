@@ -9,7 +9,7 @@ handling input images for classification and testing.
 
 ** the notebooks in this project are fully documented **
 
-## Example of the model prediction based on an mp4 video input conataining images from the testing dataset:
+## Example of the model prediction based on an mp4 video input containing images from the testing dataset:
 ![video_feature](https://user-images.githubusercontent.com/65926551/152635424-df034fe7-d4b8-49d9-8908-9014d725e37c.gif)
 
 ## Libraries
